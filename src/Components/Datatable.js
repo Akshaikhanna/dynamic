@@ -154,6 +154,7 @@ const DataTable = () => {
           </Modal.Footer>
         </Modal>
       </div>
+      
 {/* ----------------------------------------------------Pagination------------------------------------------------------------- */}
       <div className="pagination">
         <Pagination size="lg">
